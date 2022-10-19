@@ -50,7 +50,7 @@
               <targetType>WEBASSEMBLY</targetType>
               <mainClass>Main</mainClass>
               <classesToPreserve>
-                wit_spin_http.SpinHttp
+                wit_random_thing.RandomThing
               </classesToPreserve>
               <debugInformationGenerated>true</debugInformationGenerated>
               <minifying>false</minifying>
